@@ -19,7 +19,7 @@ DESCRIPTION="This is a first ML project"
 REQUIREMENT_FILE_NAME="requirements.txt"
 setup(
 name="housing-predictor",
-version="0.0.1",
+version="0.0.2",
 author="keshav",
 description="DESCRIPTION",
 packages=['housing'],
